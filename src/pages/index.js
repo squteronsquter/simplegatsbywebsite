@@ -1,9 +1,10 @@
 import React from "react"
+import Header from "../components/header"
 
 export default function Home() {
   return (
   <>
-  <h1>Welcome to Gatsby</h1>
+  <Header headerText="Simple Website - Home Page"/>
   </>
     )
 }

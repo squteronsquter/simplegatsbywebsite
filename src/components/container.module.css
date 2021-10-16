@@ -1,0 +1,7 @@
+.container {
+    background-color: aliceblue;
+    color:black;
+    margin: 3rem auto;
+    max-width: 600px;
+    padding: 0 3rem;
+}
